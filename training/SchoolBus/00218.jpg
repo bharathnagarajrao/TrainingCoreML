@@ -1,0 +1,120 @@
+<html lang="en">
+<head><script type="text/javascript" src="/cf_scripts/scripts/cfform.js"></script>
+<script type="text/javascript" src="/cf_scripts/scripts/masks.js"></script>
+
+    <title>Page Not Found</title>
+   
+    <link type="text/css" rel="stylesheet" href="/myicons/pix/uiElements/css/styles-global.css" />
+    <link type="text/css" rel="stylesheet" href="/myicons/pix/uiElements/css/styles-swUI.css" />
+    <link type="text/css" rel="stylesheet" href="/myicons/pix/styles/admin/styles2011.css" />
+
+    <style>
+        body{background:#ccc; margin:0; padding:0;}
+        a{ text-decoration:underline;}
+		
+        #sw-errorContainer{border:1px solid #666; margin:50px auto; width:650px; height:auto; background:#efefef; -webkit-box-shadow:0 0 10px rgba(0,0,0,0.3);}
+        .tableHead{ margin:0; padding:5px 10px; background:#039;}
+		.tableHead.title{font:bold 24px/36px "Trebuchet MS", Arial, Helvetica, sans-serif;}
+		.tableHead.title img { vertical-align:middle;}
+        p{ margin:20px 15px; font-size:15px;}
+        
+        .sw-logo{position:absolute; bottom:18px; right:-2px; color:#dfdfdf; font:bold 72px/72px Arial, Helvetica, sans-serif;}
+		#errorForm {padding:0 40px; margin:0 auto;}
+    </style>
+
+<script type="text/javascript">/* <![CDATA[ */
+	if (window.ColdFusion) ColdFusion.required['myEmail']=true;
+/* ]]> */</script>
+<script type="text/javascript">
+<!--
+    _CF_checkCFForm_1 = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element myEmail required check
+        if( _CF_hasValue(_CF_this['myEmail'], "TEXT", false ) )
+        {
+            //form element myEmail 'EMAIL' validation checks
+            if (!_CF_checkEmail(_CF_this['myEmail'].value, true))
+            {
+                _CF_onError(_CF_this, "myEmail", _CF_this['myEmail'].value, "Please make sure you tell us your email");
+                _CF_error_exists = true;
+            }
+
+        }else {
+            _CF_onError(_CF_this, "myEmail", _CF_this['myEmail'].value, "Please make sure you tell us your email");
+            _CF_error_exists = true;
+        }
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+</head>
+
+<body>
+
+ <div id="sw-errorContainer" role="heading">
+    	<div class="tableHead title">INFO</div>
+
+
+<p><span style="font-size:large; font-family:Verdana, Geneva, sans-serif; color:#ff0000"><strong>Sorry, this page was not found.</strong></span><p>
+
+You've requested a page that does not exist or is no longer present on this web site. If you've reached this page by selecting a bookmark that worked previously, it's likely the file has moved to a new location.
+<p></p>
+
+    
+    	
+
+    <p></p>
+    <p>If you think you've reached this page in error, please let us know by using the following form (only your Email is required).
+          
+    <p></p>
+    <div id="errorForm">
+    <form name="CFForm_1" id="CFForm_1" action="/z-missingPages.cfm" method="post" onsubmit="return _CF_checkCFForm_1(this)">
+    <input name="missingPage" type="hidden" value="http://www.saratogaschools.org/Transportation/schoolbusarrival.jpg">
+    <input name="referringPage" type="hidden" value="">
+    
+    <label for="myName"><em>Your Name</em></label><br />
+    <input name="myName" type="text" maxlength="50"  id="myName"  size="30"  />
+    <p></p>
+    <label for="myEmail"><strong><em>Your Email</em></strong></label><br />
+    <input name="myEmail" type="text" maxlength="50"  id="myEmail"  size="30"  /><p></p>
+    <input name="mysubmit" type="submit" value="Submit >">
+    </form>
+
+    <p></p>
+    <em>missing page info: http://www.saratogaschools.org/Transportation/schoolbusarrival.jpg</em>
+    </div>
+    
+    
+
+<p>We apologize for the inconvenience.</p>
+
+    
+        <span class="sw-logo">404</span>
+        <div class="tableHead">&nbsp;</div>
+    </div> 
+
+</body>
+</html>

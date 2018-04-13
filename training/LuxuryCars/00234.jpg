@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HostGator - Please Configure Your Name Servers</title>
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400,900,300italic' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="http://marketing.hostgator.com/seo/css/base.css" />
+        <style>
+        .sprite { background: url(http://register.hostgator.com/img/sprites-2.png) center center no-repeat transparent;border: 0;vertical-align: middle;text-decoration: none;display: -moz-inline-stack;display: inline-block;zoom: 1;*display: inline; }
+        .sprite-large-com-folder { background-position: -602px -2px;height: 80px;margin: 0 10px 0 4px;width: 104px; }
+        .sprite-large-dns-globe { background-position: -654px -357px;height: 81px;width: 92px; }
+        .sprite-large-info-globe { background-position: -631px -271px;height: 85px;width: 91px; }
+        .information { text-align:initial; }
+        .information h2 { text-align:center; }
+        .information p { margin-left: 30px; }
+        .long-list { list-style-type: none; }
+        </style>
+    <script type="text/javascript">
+  var _aaq = window._aaq || (window._aaq = []);
+  var evergageAccount = 'eig';
+  var dataset = 'hgns1ns2';
+  _aaq.push(['setEvergageAccount', evergageAccount], ['setDataset', dataset], ['setUseSiteConfig', true]);
+
+  (function(){
+    var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+        g.type = 'text/javascript'; g.defer = true; g.async = true;
+        g.src = document.location.protocol + '//cdn.evergage.com/beacon/'
+                + evergageAccount + '/' + dataset + '/scripts/evergage.min.js';
+        s.parentNode.insertBefore(g, s);
+  })();
+    </script>
+</head>
+    <body>
+        <div id="wrapper">
+            <div id="header">
+                <div class="logo" onClick="window.open('http://www.hostgator.com','_parent');"></div>
+                <div class="support-container">
+                    <h2>Have a Question?</h2>
+                    <a href="https://chat.hostgator.com" title="Click Here for 24/7/365 Live Chat!">
+                        Click Here for 24/7/365 Live Chat!
+                    </a>
+                    <div class="chat-girl"></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="blue-divider-bar"></div>
+            <div class="container">
+                <div class="top-section">
+                <div class="clear"></div>
+                </div>
+                <h1>You're almost done!</h1>
+                <div class="inner-container how">
+                    <h2>Please configure your name servers</h2>
+                    <div class="left-col">
+                        <span class="sprite sprite-large-com-folder">&nbsp;</span><BR>
+                        <p>You're seeing this page because your domain is setup with the default name servers: <strong>ns1.hostgator.com</strong> and <strong>ns2.hostgator.com</strong>.</p>
+                    </div>
+                    <div class="middle-col">
+                        <span class="sprite sprite-large-info-globe">&nbsp;</span>
+                        <!---img src="http://marketing.hostgator.com/seo/images/tools.jpg" height="60"/--->
+                        <p>In order to point the domain to your server, please <strong><a href="https://register.hostgator.com/?manage">login here</a></strong> to manage your domain's settings.</p>
+                    </div>
+                    <div class="right-col">
+                        <span class="sprite sprite-large-dns-globe">&nbsp;</span><BR><BR>
+                        <p>You can find the name servers you need to use in your welcome email or HostGator control panel. For more information, please see <strong><a href="http://support.hostgator.com/articles/hosting-guide/lets-get-started/dns-name-servers/what-are-my-name-servers">this page</a></strong>.</p>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="grey information">
+                        <h2>How can I avoid this in the future?</h2>
+                        <p>When you purchase domain names from <a href="http://register.hostgator.com">register.hostgator.com</a>, check the box next to: "Set Custom Nameservers (Optional)" in the domains cart and add your desired name servers. The domain will be registered with the name servers configured from the start. <BR><center><img src="./img/chkout.png" style="border:1px solid #CCC;"></center>
+                        <h2>Need more information?</h2>
+                        <p> Our knowledge base has a lot of resources to help you!
+                        <ul class="long-list">
+                            <li><a href="http://support.hostgator.com/articles/hosting-guide/lets-get-started/dns-name-servers/how-do-i-change-my-dns-or-name-servers">How do I change my name servers?</a></li>
+                            <li><a href="http://support.hostgator.com/articles/hosting-guide/lets-get-started/when-will-my-domain-start-working-propagation">When will my domain start working? (Propagation)</a></li>                         
+                            <li><a href="http://support.hostgator.com/articles/hosting-guide/lets-get-started/can-i-use-my-account-and-my-site-even-though-my-domain-name-hasnt-propagated-yet">Can I use my account and my site even though my domain name hasn't propagated yet?</a></li>
+                            <li><a href="http://support.hostgator.com/articles/cpanel/what-is-an-addon-domain">What is an addon domain?</a></li>
+                            <li><a href="http://support.hostgator.com/articles/cpanel/how-do-i-create-and-remove-an-addon-domain">How do I create/remove an addon domain?</a></li>
+                            <li><a href="http://support.hostgator.com/articles/hosting-guide/lets-get-started/domain-names-buy-sell-manage/guide-to-domain-names">Guide to domain names</a></li>
+                            <li><a href="http://support.hostgator.com/articles/hosting-guide/lets-get-started/dns-name-servers/what-are-private-name-servers">What are private name servers</a></li>
+                            <li><a href="https://support.hostgator.com/articles/hosting-guide/lets-get-started/dns-name-servers/private-name-servers">Private Name Servers</a></li>
+                            <li><a href="https://support.hostgator.com/articles/hosting-guide/lets-get-started/dns-name-servers/flush-dns">[How to] Flush DNS</a></li>
+                       </ul>
+                    <div class="clear"></div>
+                </div>
+                <div class="inner-container bottom-section">
+                <p>Thank you for your purchase with HostGator.com
+                </div>
+                </div>
+                </footer>
+            </div>
+    </body>
+</html>

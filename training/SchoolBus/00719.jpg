@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" prefix="dcterms: http://purl.org/dc/terms/ rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns# perc: http://percussion.com/perc/elements/1.0/ og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" >
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+<title>Page Not Found</title>
+<script type="text/javascript">
+var percGlobalErrors = [];         
+window.onerror=function(msg, url, linenumber){
+var jsErrorMsg = 'JavaScript error -- ' + msg;  
+percGlobalErrors.push(jsErrorMsg);
+return false;
+}
+</script>
+<link rel="stylesheet" href="/web_resources/cm/themes/smoothness/jquery-ui-1.8.9.custom.css" type="text/css" media="all" />
+<link rel="stylesheet" href="/web_resources/themes/IEPA/iepa.css" type="text/css" media="all" />
+<script type="text/javascript" src="/web_resources/cm/jslib/jquery.js"></script>
+<script type="text/javascript" src="/web_resources/cm/jslib/jquery-ui.js"></script>
+<script type="text/javascript" src="/web_resources/cm/common/js/PercGlobalVariables.js"></script>
+<script type="text/javascript" src="/web_resources/cm/common/js/perc_common_ui.js"></script>
+<script type="text/javascript" src="/web_resources/cm/jslib/jquery.cookie.min.js"></script>
+<meta property="dcterms:type" content="page"/>
+<meta property="dcterms:source" content="no-section-nav"/>
+<meta property="dcterms:created" content="2014-08-01T10:32:45"/> 
+<meta property="dcterms:alternative" content="Page Not Found"/>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="">
+<meta name="author" content="Stuart Batty">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link href="/web_resources/themes/IEPA/plugins/bootstrap-touchspin/jquery.bootstrap-touchspin.min.css" rel="stylesheet" type="text/css" media="all">
+<link rel="stylesheet" href="/web_resources/themes/IEPA/css/iepa.css" type="text/css"  media="all">
+<link href="http://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700|Roboto+Slab:300,400" rel="stylesheet" type="text/css">
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/web_resources/themes/IEPA/js/modernizr.custom.51429.js"></script> 
+<script type="text/javascript" src="/web_resources/themes/IEPA/js/respond.min.js"></script>
+<![endif]-->
+<link rel="shortcut icon" href="/web_resources/themes/IEPA/images/layout/favicon.ico">
+<script type="text/javascript" src="/web_resources/themes/IEPA/js/google-analytics.js"></script>
+
+<script type="text/javascript">(function() { jQuery.getDeliveryServiceBase = function(){ return 'http://www.epa.illinois.gov';};jQuery.getCm1License = function(){ return '2013CM1-c11d-dd6c-ab8a-6486';};jQuery.getCm1Version = function(){ return '5.3.0';};})();</script>
+<script type="text/javascript"> 
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-42004847-2', 'auto','www.epa.illinois.gov' ); 
+ga('send', 'pageview');
+
+</script>
+</head>
+<body>
+<input type="hidden" id="perc_linkback_id" value="9-101-4882"/>
+
+
+<div  class="perc-region perc-vertical "  data-noautoresize="false" id="perc-container"> <div class=" perc-vertical "><div  class="perc-region perc-vertical "  data-noautoresize="false" id="perc-content"> <div class=" perc-vertical "><div  class="perc-region perc-region-leaf perc-fixed perc-vertical hidden-print "  data-noautoresize="false" id="top-bar"> <div class=" perc-vertical "><div class="perc-widget" >
+<div class="container top-bar hidden-xs"> 
+ <div class="row"> 
+  <div class="col-md-6"> 
+   <h4 class="masthead"><a href="http://www.epa.illinois.gov/">Illinois Environmental Protection Agency</a></h4> 
+  </div> 
+  <div class="col-md-6"> 
+   <div class="top-links"> 
+    <a href="http://www.epa.illinois.gov/about-us/contact-us/index"><i class="icomoon-bubble-2"></i> Contact Us</a> 
+    <a href="http://www.epa.illinois.gov/services-locator/index?VIM=true&amp;EWaste=true&amp;HouseHaz=true&amp;MedWaste=true"><i class="icomoon-location-4"></i> Services Map</a> 
+    <a href="/topics/forms/index"><i class="icomoon-file-download"></i> Forms</a> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+<!-- test comment 99 -->
+
+</div>
+</div></div><div  class="perc-region perc-region-leaf perc-fixed perc-vertical "  data-noautoresize="false" id="navigation"> <div class=" perc-vertical "><div class="perc-widget" >
+<div class="navbar navbar-default navbar-static-top yamm"> 
+ <div class="container"> 
+  <div class="navbar-header"> 
+   <button type="button" data-toggle="collapse" data-target="#navbar-main" class="navbar-toggle"> <span class="icon-bar"></span> <span class="icon-bar"></span><span class="icon-bar"></span> </button> 
+   <a href="/index" class="navbar-brand"> <img src="/web_resources/themes/IEPA/images/layout/logo.png" class="img-responsive" id="img-logo" alt="logo" title="Home" /> </a> 
+  </div> 
+  <div id="navbar-main" class="navbar-collapse collapse"> 
+   <ul class="nav navbar-nav" id="nav-list"> 
+    <li class="dropdown"> <a href="/citizens/index" data-toggle="dropdown" data-hover="dropdown" data-delay="500" class="dropdown-toggle">Citizens<b class="caret"></b></a> 
+     <ul role="menu" class="dropdown-menu"> 
+      <li><a href="/citizens/index">For Citizens</a> </li> 
+      <li><a href="/citizens/citizens-information/index">Citizen's Information</a> </li> 
+      <li><a href="/citizens/air-quality/index">Air Quality</a> </li> 
+      <li><a href="/citizens/land-pollution-and-waste-disposal/index">Land Pollution &amp; Waste Disposal</a> </li> 
+      <li><a href="/citizens/drinking-water/index">Drinking Water</a></li> 
+      <li><a href="/citizens/water-quality/index">Water Quality</a></li> 
+      <li><a href="/topics/energy/index">Energy Conservation</a> </li> 
+      <!-- comment --> 
+     </ul> </li> 
+    <li class="dropdown"> <a href="/business/index" data-toggle="dropdown" data-hover="dropdown" data-delay="500" class="dropdown-toggle">Business<b class="caret"></b></a> 
+     <ul class="dropdown-menu"> 
+      <li> 
+       <div class="yamm-content"> 
+        <div class="row"> 
+         <div class="col-sm-6"> 
+          <ul class="list-nav-bar"> 
+           <li><a href="/business/index">For Businesses</a> </li> 
+           <li><a href="/business/air-quality/index">Air Quality</a> </li> 
+           <li><a href="/business/agriculture/index">Agriculture</a> </li> 
+           <li><a href="/business/cleanup-programs/index">Cleanup Programs</a> </li> 
+           <li><a href="/business/land-pollution-and-waste-disposal/index">Land Pollution &amp; Waste Disposal</a> </li> 
+           <li><a href="/business/permits-forms-and-fees/index">Forms, Permits &amp; Fees</a> </li> 
+           <li><a href="/business/water-quality/index">Water Quality</a> </li> 
+           <li><a href="/topics/energy/index">Energy Conservation</a> </li> 
+          </ul> 
+         </div> 
+         <div class="col-sm-6"> 
+          <h4 class="subtitle">Permits</h4> 
+          <img src="/Assets/iepa/layout/portal-logo.gif" alt="" class="img-responsive" /> 
+          <br /> 
+          <h6><strong>IEPA Permit Portal</strong></h6> 
+          <p>All the permit information you need. <a href="/topics/forms/permitting/index">Get started today!</a> </p> 
+         </div> 
+        </div> 
+       </div> </li> 
+     </ul> </li> 
+    <li class="dropdown"> <a href="/government/index" data-toggle="dropdown" data-hover="dropdown" data-delay="500" class="dropdown-toggle">Government<b class="caret"></b></a> 
+     <ul role="menu" class="dropdown-menu"> 
+      <li><a href="/government/index">For Government</a> </li> 
+      <li><a href="/government/air-quality/index">Air Quality</a> </li> 
+      <li><a href="/government/drinking-water/index">Drinking Water</a> </li> 
+      <li><a href="/government/cleanup-programs/index">Cleanup Programs</a> </li> 
+      <li><a href="/government/land-pollution-and-waste-disposal/index">Land Pollution &amp; Waste Disposal</a> </li> 
+      <li><a href="/government/permits-forms-and-fees/index">Forms, Permits &amp; Fees</a> </li> 
+      <li><a href="/government/water-quality/index">Water Quality</a></li> 
+     </ul> </li> 
+    <li class="dropdown"> <a href="/educators/index" data-toggle="dropdown" data-hover="dropdown" data-delay="500" class="dropdown-toggle">Educators<b class="caret"></b></a> 
+     <ul role="menu" class="dropdown-menu"> 
+      <li><a href="/educators/index">For Educators</a> </li> 
+      <li><a href="/educators/air-quality/index">Air Quality</a> </li> 
+      <li><a href="/educators/educator-tools/index">Educators' Tools</a> </li> 
+      <li><a href="/educators/internships/index">Internships</a> </li> 
+      <li><a href="/educators/land-pollution-and-waste-disposal/index">Land Pollution &amp; Waste Disposal</a> </li> 
+      <li><a href="/educators/water-quality/index">Water Quality</a></li> 
+     </ul> </li> 
+    <li class="dropdown"> <a href="/about-us/index" data-toggle="dropdown" data-hover="dropdown" data-delay="500" class="dropdown-toggle">About IEPA<b class="caret"></b></a> 
+     <ul role="menu" class="dropdown-menu"> 
+      <li><a href="/about-us/index">About Us</a> </li> 
+      <li><a href="/about-us/introduction/history/index">History</a> </li> 
+      <li><a href="/about-us/procurement/index">Procurement</a> </li> 
+      <li><a href="/about-us/rules-regs/index">Rules &amp; Regulations</a> </li> 
+      <li><a href="/about-us/contact-us/index">Contact Us</a> </li> 
+      <li><a href="/about-us/directory/index">Quick Answer Directory</a></li> 
+      <li><a href="/about-us/employment/index">Employment</a></li> 
+     </ul> </li> 
+   </ul> 
+   <ul class="nav navbar-nav navbar-right"> 
+    <li class="dropdown"> <a href="#" data-toggle="dropdown" data-hover="dropdown" data-delay="500" class="dropdown-toggle">Search<b class="caret"></b></a> 
+     <ul role="menu" class="dropdown-menu"> 
+      <li> 
+       <div class="yamm-content"> 
+        <div id="gcse-searchbox-wrapper"> 
+         <gcse:searchbox-only></gcse:searchbox-only> 
+        </div> 
+       </div> </li> 
+     </ul> </li> 
+   </ul> 
+  </div> 
+ </div> 
+</div>
+
+</div>
+</div></div><div  class="perc-region perc-region-leaf perc-fixed perc-vertical "  data-noautoresize="false" id="headline"> <div class=" perc-vertical "><div class="perc-widget" >
+
+    
+       
+       <div class="iepaIepaPageHeadline">
+                    <div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <h1>Page Not Found</h1>
+    </div>
+  </div>
+</div>
+               </div>
+    
+    
+</div>
+</div></div><div  class="perc-region perc-fixed perc-vertical block "  data-noautoresize="false" id="page-main-body"> <div class=" perc-vertical "><div  class="perc-region perc-fixed perc-horizontal ui-helper-clearfix container "  data-noautoresize="false" id="body-container"> <div class=" perc-horizontal ui-helper-clearfix "><div  class="perc-region perc-fixed perc-horizontal ui-helper-clearfix row "  data-noautoresize="false" id="body-row"> <div class=" perc-horizontal ui-helper-clearfix "><div  class="perc-region perc-region-leaf perc-fixed perc-vertical col-md-8 "  data-noautoresize="false" id="body-left-col"> <div class=" perc-vertical "><div class="perc-widget" >
+<div class="hidden-print"> 
+ <ul class="perc-breadcrumb-main"> 
+  <li class="perc-list-element"> <a href="/index">Home</a> </li> 
+ </ul> 
+</div>
+
+</div>
+<div class="perc-widget" >
+<div>
+<div class="rxbodyfield"><h2>Error 404 - Page Not Found</h2><p>Sorry, that web page does not exist at that location.</p><p>The Illinois EPA recently redesigned and reorganized its entire web site. The new web address of this site is <a href="http://www.epa.illinois.gov/">www.epa.illinois.gov</a>. We hope that this new site is better organized to make it easier to find information. Unfortunately, web links and bookmarks to the old web pages are no longer valid.</p><p>We wish that we could automatically take you to the new location of the information you want. Unfortunately, that's not possible. Instead, please try one of these methods:</p><ul><li>Look for the page in the <a href="/topics/a-to-z-list" title="A-to-Z List">A-Z List of Topics</a>.</li><li>Search the web site using the search box in the upper-right corner of any web page.</li><li>Go to the <a href="/index" title="Home">front page of the web site</a>.</li></ul><h3>Fixed Links</h3><p>If you told us about a page with a broken link and we've fixed the link, but it continues to be broken for you, you probably need to refresh your web browser's cache. To do this, follow these steps:</p><ol><li>Go the the web page that has the broken link. In other words, <strong>not</strong> the page that is missing, but that page that <strong>links to</strong> the missing page.</li><li>Press the F5 key to reload the page, refreshing your web browser's cache.</li><li>Select the link again.</li></ol><h3>Popular Pages</h3><p>Here are some of the most common pages visitors are looking for:</p><ul><li><a href="/topics/air-quality/mobile-sources/vehicle-emissions-testing/index" title="Vehicle Emissions testing">Vehicle Emissions Testing</a></li><li><a href="/topics/forms/index" title="Permits, Forms &amp; Fees">Forms, Permits, and Fees</a></li><li><a href="/topics/waste-management/electronics-recycling/index" title="Electronics Recycling">Electronic Waste Recycling</a></li><li><a href="/topics/cleanup-programs/bol-database/index" title="Bureau of Land Databases">Land Databases</a></li><li><a href="/topics/waste-management/waste-disposal/household-hazardous-waste/index" title="Household Hazardous Waste">Household Hazardous Waste</a></li><li><a href="/about-us/directory/index" title="Directory">Quick Answer Directory</a></li></ul></div></div>
+</div>
+</div></div><div  class="perc-region perc-fixed perc-vertical col-md-3 col-md-offset-1 sidebar hidden-print "  data-noautoresize="false" id="body-sidebar"> <div class=" perc-vertical "><div  class="perc-region perc-region-leaf perc-fixed perc-vertical nav-list static-nav "  data-noautoresize="false" id="static-nav"> <div class=" perc-vertical "><div class="perc-widget" >
+<h4 class="subtitle">Section Navigation</h4>
+
+</div>
+<div class="perc-widget" >
+<div>
+</div>
+</div>
+</div></div><div  class="perc-region perc-region-leaf perc-fixed perc-vertical "  data-noautoresize="false" id="service-locator"> <div class=" perc-vertical "><div class="perc-widget" >
+<h4 class="subtitle">Find Services</h4> 
+<form id="service-locator"> 
+ <!-- div class="checkbox"> 
+  <label> <input type="checkbox" name="dataType" value="VIM" /> VIM Testing Station </label> 
+ </div --> 
+ <div class="checkbox"> 
+  <label> <input type="checkbox" name="dataType" value="MedWaste" /> Medication Disposal Locations </label> 
+ </div> 
+ <div class="checkbox"> 
+  <label> <input type="checkbox" name="dataType" value="EWaste" /> E-Waste Collection Sites </label> 
+ </div> 
+ <div class="checkbox"> 
+  <label> <input type="checkbox" name="dataType" value="HouseHaz" /> Hazardous Waste Collection Sites </label> 
+ </div> 
+ <div class="form-group"> 
+  <label class="sr-only" for="distance">select distance from address to search</label> 
+  <div class="input-group"> 
+   <span class="input-group-addon">Within</span> 
+   <select class="form-control" name="distance"> <option value="5">5</option> <option value="10" selected="">10</option> <option value="25">25</option> <option value="50">50</option> <option value="100">100</option> </select> 
+   <span class="input-group-addon">miles of</span> 
+  </div> 
+ </div> 
+ <div class="form-group"> 
+  <label class="sr-only" for="find-services">Click to find services</label> 
+  <div class="input-group"> 
+   <input name="inLocation" type="text" class="form-control typeahead" placeholder="Address or City or ZIP" /> 
+   <span class="input-group-btn"> <button id="find-services" type="submit" class="btn btn-search"><i class="icomoon-location-4"></i></button> </span> 
+  </div> 
+ </div> 
+</form>
+
+</div>
+<div class="perc-widget" >
+
+    <div class=" perc-tag-list" data-query="">
+<div style="display:none" class="perc-tag-list-structure">
+<ul class="perc-list-main"><li class="perc-list-element">
+<a href="#"></a>
+</li>
+</ul></div>
+</div>
+    
+</div>
+</div></div></div></div></div></div></div></div></div></div><div  class="perc-region perc-fixed perc-vertical hidden-print "  data-noautoresize="false" id="footer-wrap"> <div class=" perc-vertical "><div  class="perc-region perc-region-leaf perc-fixed perc-vertical container "  data-noautoresize="false" id="footer-body"> <div class=" perc-vertical "><div class="perc-widget" >
+<div class="container footer-body"> 
+ <div class="row" id="row"> 
+  <div class="col-sm-4" id="footer-col-1"> 
+   <h5 class="subtitle ">Quick Links</h5> 
+   <a href="/topics/emergency-response/index"><i class="icomoon-fire "></i>Emergency Response</a> 
+   <a href="/foia/index"><i class="icomoon-cabinet "></i>Freedom Of Information Act</a> 
+   <a href="/pollution-complaint/index"><i class="icomoon-shield "></i>Pollution Complaints</a> 
+   <a href="/topics/forms/index"><i class="icomoon-signup "></i>Forms</a> 
+   <a href="/topics/a-to-z-list"><i class="icomoon-drawer-3"></i>A to Z Topic List</a> 
+  </div> 
+  <div class="col-sm-4" id="footer-col-2"> 
+   <h5 class="subtitle">State Government</h5> 
+   <a href="http://www.illinois.gov/"><i class="icomoon-library"></i>State of Illinois</a> 
+   <a href="http://www.illinois.gov/Gov"><i class="icomoon-hammer-2"></i>Office of the Governor</a> 
+   <a href="http://www.illinois.gov/oeig/Pages/default.aspx"><i class="icomoon-balance"></i>Inspector General</a> 
+   <a href="http://www.illinois.gov/business/Pages/default.aspx"><i class="icomoon-factory"></i>Illinois Business Portal</a> 
+   <a href="https://getcoveredillinois.gov"><i class="icomoon-health"></i>Get Covered Illinois</a> 
+  </div> 
+  <div class="col-sm-4" id="footer-col-3"> 
+   <h5 class="subtitle ">Contact Us</h5> 
+   <span><i class="icomoon-office "></i>1021 North Grand Ave. East</span> 
+   <span class="noicon">P.O. Box 19276</span> 
+   <span class="noicon ">Springfield, IL 62794-9276</span> 
+   <span><i class="icomoon-phone "></i>(217) 782-3397</span> 
+  </div> 
+ </div> 
+</div>
+
+</div>
+</div></div><div  class="perc-region perc-fixed perc-vertical footer-bar "  data-noautoresize="false" id="footer-bar"> <div class=" perc-vertical "><div  class="perc-region perc-region-leaf perc-fixed perc-vertical container "  data-noautoresize="false" id="footer-bar-body"> <div class=" perc-vertical "><div class="perc-widget" >
+<div class="footer-navi">
+ &copy; 
+ <a href="http://www.epa.illinois.gov">Illinois EPA</a>
+</div> 
+<div class="socialfollow"> 
+ <!-- a href="https://www.facebook.com/IllinoisEpa" class="facebook"><i class="icomoon-facebook"></i></a>
+  <a href="https://twitter.com/ILEPA" class="twitter"><i class="icomoon-twitter"></i></a>
+  <a href="https://plus.google.com/101593756223372223415" class="google"><i class="icomoon-google-plus-2"></i></a --> 
+ <a href="https://twitter.com/ILEPA" class="twitter"><i class="icomoon-twitter"></i></a> 
+ <a href="https://www.flickr.com/photos/illinoisepa/" class="flickr"><i class="icomoon-flickr"></i></a> 
+ <a href="https://www.youtube.com/user/IllinoisEPA" class="youtube"><i class="icomoon-youtube"></i></a> 
+</div> 
+<!-- test comment 13 -->
+
+</div>
+</div></div></div></div></div></div><div  class="perc-region perc-region-leaf perc-fixed perc-vertical "  data-noautoresize="false" id="scroll-top"> <div class=" perc-vertical "><div class="perc-widget" >
+<!-- Scroll to top --> 
+<a href="#" class="scrollup"><i class="icomoon-arrow-up"></i></a> 
+<!-- test comment -->
+
+</div>
+</div></div></div></div></div></div>
+<script type="text/javascript" src="/web_resources/themes/IEPA/js/doubletaptogo.min.js" ></script> 
+<script type="text/javascript" src="/web_resources/themes/IEPA/js/affix.min.js"></script> 
+<script type="text/javascript" src="/web_resources/themes/IEPA/js/alert.min.js"></script> 
+<script type="text/javascript" src="/web_resources/themes/IEPA/js/collapse.min.js"></script> 
+<script type="text/javascript" src="/web_resources/themes/IEPA/js/dropdown.min.js"></script> 
+<script type="text/javascript" src="/web_resources/themes/IEPA/js/tab.min.js"></script> 
+<script type="text/javascript" src="/web_resources/themes/IEPA/js/tooltip.min.js"></script>
+<script type="text/javascript" src="/web_resources/themes/IEPA/js/bootstrap-hover-dropdown.min.js"></script>
+<script type="text/javascript" src="/web_resources/themes/IEPA/js/jsviews.min.js"></script>
+<script type="text/javascript" src="/web_resources/themes/IEPA/js/typeahead.bundle.js"></script>
+<script type="text/javascript" src="/web_resources/themes/IEPA/plugins/bootstrap-touchspin/jquery.bootstrap-touchspin.min.js"></script>
+<script type="text/javascript" src="/web_resources/themes/IEPA/js/iepa-init.min.js"></script>
+</body>
+ </html>

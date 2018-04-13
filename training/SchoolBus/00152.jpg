@@ -1,0 +1,1045 @@
+
+<!-- vvvvvvvv MWS vvvvvvv  2/11/2018 -->
+<!DOCTYPE html>
+<html  lang="en-US">
+<!-- vvvvvvvv MWS vvvvvvv  2/11/2018 -->
+
+<head id="Head">
+<!--*********************************************-->
+<!-- DNN Platform - http://www.dnnsoftware.com   -->
+<!-- Copyright (c) 2002-2015, by DNN Corporation -->
+<!--*********************************************-->
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<meta name="REVISIT-AFTER" content="1 DAYS" />
+<meta name="RATING" content="GENERAL" />
+<meta name="RESOURCE-TYPE" content="DOCUMENT" />
+<meta content="text/javascript" http-equiv="Content-Script-Type" />
+<meta content="text/css" http-equiv="Content-Style-Type" />
+<title>
+	404 Message
+</title><meta id="MetaDescription" name="DESCRIPTION" content="405" /><meta id="MetaKeywords" name="KEYWORDS" content="405,DotNetNuke,DNN" /><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke " /><meta id="MetaRobots" name="ROBOTS" content="NOINDEX, NOFOLLOW" /><link href="/Portals/_default/default.css?cdv=923" media="all" type="text/css" rel="stylesheet"/><link href="/DesktopModules/Announcements/module.css?cdv=923" media="all" type="text/css" rel="stylesheet"/><link href="/Resources/Search/SearchSkinObjectPreview.css?cdv=923" media="all" type="text/css" rel="stylesheet"/><link href="/DesktopModules/HTML/module.css?cdv=923" media="all" type="text/css" rel="stylesheet"/><link href="/Portals/TUSD1/District/Skins/TucsonX/skin.css?cdv=923" media="all" type="text/css" rel="stylesheet"/><link href="/Portals/TUSD1/District/portal.css?cdv=923" media="all" type="text/css" rel="stylesheet"/><script src="/Resources/libraries/jQuery/01_09_01/jquery.js?cdv=923" type="text/javascript"></script><script src="/Resources/libraries/jQuery-UI/01_11_03/jquery-ui.js?cdv=923" type="text/javascript"></script><!--[if lte IE 7]><link id="style_ie7_css" rel="stylesheet" type="text/css" href="/Portals/TUSD1/District/Skins/TucsonX/style.ie7.css" /><![endif]--><link id="animate_css" rel="stylesheet" type="text/css" href="/Portals/TUSD1/District/Skins/TucsonX/css/animate.css" /><link id="style_responsive_css" rel="stylesheet" type="text/css" href="/Portals/TUSD1/District/Skins/TucsonX/style.responsive.css" /><link id="http:__fonts_googleapis_com_css_family_Open_Sans_subset_latin" rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans&amp;subset=latin" /><link id="favicon_ico" rel="stylesheet" type="text/css" href="/Portals/TUSD1/District/Skins/TucsonX/favicon.ico" />
+    <script type="text/javascript" src='/desktopmodules/dnnplus/js/dnnPlus.min.js'></script>  
+<!-- Created by Artisteer v4.3.0.60745 --><meta name="viewport" content="initial-scale = 1.0, maximum-scale = 12.0, user-scalable = yes, width = device-width"><!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--><link href="/Portals/TUSD1/District/Skins/TucsonX/favicon.ico" rel="shortcut icon" /></head>
+<script src="/Resources/libraries/jQuery-Migrate/01_02_01/jquery-migrate.js" type="text/javascript"></script>
+<body id="Body" class="dnn6">
+    
+    <form name="Form" method="post" action="/Home/404-Message" id="Form" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="PYUDPjXEI+muG3EhLrgGD50OeQl5tqxRbMwMRJtLBC7fXvzvefUNEw74pk18/OoakyzlCrGXdN5RaNKK5FYHzY9u0m9UCo1LtCjGuXA/G35qsjyUfH9SLi4CBsg=" />
+</div>
+
+
+<script src="/desktopmodules/dnnplus/js/dnnPlus.min.js" type="text/javascript"></script>
+<script src="/Portals/TUSD1/District/Skins/TucsonX/script.js" type="text/javascript"></script>
+<script src="/Portals/TUSD1/District/Skins/TucsonX/script.responsive.js" type="text/javascript"></script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3ac97801cf-c4e9-421a-bd07-262d424faf76%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="hij2MRyy6vJuRO+tx241BsN9hQEzX8Kr5nBzNO0upNpUy70hU8jRbYdytQ1uQF13sb+P8fuVFRY9BQJFEcItyXguEewivIVIYRn749sM9wRwA9cehlRl2hmPs/l/de8qUW3P7/iqaE8t6338sGwR4VGTbcNNYzGgd6Ya1Ib1vLTLPn1OuaPo/Mw2dx4=" />
+</div><script src="/js/dnn.js?cdv=923" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=923" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=923" type="text/javascript"></script><script src="/js/dnncore.js?cdv=923" type="text/javascript"></script><script src="/Resources/Search/SearchSkinObjectPreview.js?cdv=923" type="text/javascript"></script><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        
+        
+        
+
+        
+<div id="main"><div class="controlpanel-container"></div>
+<div id="SidePanel">
+    <div class="announcements1" onclick="window.open('http://tusd1.schooldesk.net/Home/Announcements/tabid/85566/Default.aspx')" title="Link to Announcements" ></div>
+    <div class="families1" onclick="window.open('http://tusd1.schooldesk.net/Departments/FamilyResourceCenters/tabid/79325/Default.aspx')" title="Link to Family Centers" ></div>
+    <div class="schools1" onclick="window.open('http://tusd1.schooldesk.net/Schools/tabid/73240/Default.aspx')" title="Link to School Directory" ></div>
+    <div class="departments1" onclick="window.open('http://tusd1.schooldesk.net/Departments/tabid/77971/Default.aspx')" title="Link to Departments Directory" ></div>
+    <div class="social1" title="Link to Social Media Sites" >
+        <img class="social_links" src="/Portals/TUSD1/District/Skins/TucsonX/images/socialbar.png" alt="Social Media Links" usemap="#Map" />
+    <map name="Map" id="Map">
+        <area alt="Link to YouTube" title="Link to YouTube" href="https://www.youtube.com/user/TUSDMedia" target="_blank" shape="rect" coords="2,196,38,233" />    
+        <area alt="Link to Live Stream" title="Link to Live Stream" href="http://livestream.com/tucsonunifiedlive" target="_blank" shape="rect" coords="3,158,39,193" />
+        <area alt="Link to Instagram" title="Link to Instagram" href="https://www.instagram.com/tucsonunified/" target="_blank" shape="rect" coords="3,118,39,155" />
+        <area alt="Link to Pinterest" title="Link to Pinterest" href="https://www.pinterest.com/tucsonunified/" target="_blank" shape="rect" coords="2,79,40,118" />
+        <area alt="Link to Twitter" title="Link to Twitter" href="https://twitter.com/tucsonunified" shape="rect" target="_blank" coords="1,41,40,78" />
+        <area alt="Link to Facebook" title="Link to Facebook" href="https://www.facebook.com/tucsonunified" shape="rect" target="_blank" coords="3,2,40,40" />
+    </map>    
+    </div>
+</div>
+
+
+<div class="xtiContainer">
+    <div class="xtiRow xtiTextCenter" style="background:#fff;"">
+        <div class="topIcons">
+                    <a href="#" onclick="window.open('http://tusd1.schooldesk.net/Home/Announcements/tabid/85566/Default.aspx')" title="Link to Announcements"><img src="/Portals/TUSD1/District/Skins/TucsonX/images/icon_a.png" width="100%" class="topIcon" /></a><a href="#" onclick="window.open('http://tusd1.schooldesk.net/Departments/FamilyResourceCenters/tabid/79325/Default.aspx')" title="Link to Family Centers" ><img src="/Portals/TUSD1/District/Skins/TucsonX/images/icon_f.png" width="100%" class="topIcon" /></a><a href="#" onclick="window.open('http://tusd1.schooldesk.net/Schools/tabid/73240/Default.aspx')" title="Link to School Directory" ><img src="/Portals/TUSD1/District/Skins/TucsonX/images/icon_s.png" width="100%" class="topIcon" /></a><a href="#" onclick="window.open('http://tusd1.schooldesk.net/Departments/tabid/77971/Default.aspx')" title="Link to Departments Directory" ><img src="/Portals/TUSD1/District/Skins/TucsonX/images/icon_d.png" width="100%" class="topIcon" /></a><a href="#socials" title="Link to social links" ><img src="/Portals/TUSD1/District/Skins/TucsonX/images/icon_sc.png" width="100%" class="topIcon" /></a>
+        </div>
+        
+    </div>
+    <div style="clear:both;"></div>
+</div>
+
+
+
+
+<div class="xtiOuterContainer">
+    <div class="xtiRow">
+        <div class="xtiCol-lg-6 xtiTextCenter animated fadeInLeft">
+            <div class="logo"><a href="/"><a href="/"><img src="/Portals/TUSD1/District/Skins/TucsonX/images/logo.png" width="100%" /></a></div>
+        </div>
+        <div class="xtiCol-lg-4 xtiTextCenter animated fadeInLeft">
+            <div class="slogan" title="TUSD slogan"><img src="/Portals/TUSD1/District/Skins/TucsonX/images/slogan1.png" width="100%" /></div>
+        </div>
+        <div class="xtiCol-lg-2  xtiTextCenter">
+            <div class="searchBoxContainer">
+                <div class="search" title="Search this site"><span id="dnn_dnnSearch_ClassicSearch">
+    
+    
+    <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+        <input name="dnn$dnnSearch$txtSearch" type="text" maxlength="255" size="20" id="dnn_dnnSearch_txtSearch" class="NormalTextBox" autocomplete="off" placeholder="Search..." />
+        <a class="dnnSearchBoxClearText"></a>
+    </span>
+    <a id="dnn_dnnSearch_cmdSearch" class="SkinObject" href="javascript:__doPostBack(&#39;dnn$dnnSearch$cmdSearch&#39;,&#39;&#39;)"> </a>
+</span>
+
+
+<script type="text/javascript">
+    $(function() {
+        if (typeof dnn != "undefined" && typeof dnn.searchSkinObject != "undefined") {
+            var searchSkinObject = new dnn.searchSkinObject({
+                delayTriggerAutoSearch : 400,
+                minCharRequiredTriggerAutoSearch : 2,
+                searchType: 'S',
+                enableWildSearch: true,
+                cultureCode: 'en-US',
+                portalId: -1
+                }
+            );
+            searchSkinObject.init();
+            
+            
+            // attach classic search
+            var siteBtn = $('#dnn_dnnSearch_SiteRadioButton');
+            var webBtn = $('#dnn_dnnSearch_WebRadioButton');
+            var clickHandler = function() {
+                if (siteBtn.is(':checked')) searchSkinObject.settings.searchType = 'S';
+                else searchSkinObject.settings.searchType = 'W';
+            };
+            siteBtn.on('change', clickHandler);
+            webBtn.on('change', clickHandler);
+            
+            
+        }
+    });
+</script>
+</div>    
+                <div class="google"><div id="google_translate_element"></div>
+                <script type="text/javascript">function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');}</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></div>
+                <div style="clear:both;"></div>
+            </div>
+        </div>
+        <div style="clear:both;"></div>
+    </div>
+</div>
+    <div id="hmenu-bg" class="bar nav">
+    </div>
+    <div class="sheet clearfix">
+
+<nav class="nav">
+    <div class="nav-inner">
+    <ul class="hmenu">
+  <li class="active"><a href="http://www.tusd1.org/" class="active">Home</a><ul class="active">
+      <li><a href="http://www.tusd1.org/Home/Contact-Us">Contact Us</a></li>
+      <li><a href="http://www.tusd1.org/Home/Website-Help">Website Help</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.tusd1.org/Schools">Schools</a><ul>
+      <li><a href="http://www.tusd1.org/Schools/Elem-Directory">Elem Directory</a></li>
+      <li><a href="http://www.tusd1.org/Schools/K8-Directory">K8 Directory</a></li>
+      <li><a href="http://www.tusd1.org/Schools/MS-Directory">MS Directory</a></li>
+      <li><a href="http://www.tusd1.org/Schools/HS-Directory">HS Directory</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.tusd1.org/Departments">Departments</a></li>
+  <li><a href="http://govboard.tusd1.org/">Governing Board</a><ul>
+      <li><a href="http://govboard.tusd1.org/Meetings/tabid/78943/Default.aspx">Meetings</a></li>
+      <li><a href="http://govboard.tusd1.org/PoliciesandRegulations/tabid/78588/Default.aspx">Policies and Regulations</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.tusd1.org/Our-Stories">Our Stories</a><ul>
+      <li><a href="http://www.tusd1.org/Our-Stories/Awards">Awards</a></li>
+      <li><a href="http://www.tusd1.org/Our-Stories/Class-of-2020">Class of 2020</a></li>
+      <li><a href="http://www.tusd1.org/Our-Stories/TeamTUSD">TeamTUSD</a></li>
+      <li><a href="http://www.tusd1.org/Our-Stories/Legacies">Legacies</a></li>
+      <li><a href="http://www.tusd1.org/Our-Stories/In-the-Spotlight">In the Spotlight</a></li>
+      <li><a href="http://www.tusd1.org/Departments/Interscholastics">Sports Coverage</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.tusd1.org/Dist-Info">Information</a><ul>
+      <li><a href="http://tusd1.org/Information/District-Calendar">Calendar</a></li>
+      <li><a href="http://www.tusd1.org/Information/Committees-and-Councils">Committees and Councils</a></li>
+      <li><a href="http://www.tusd1.org/Information/District-Budget">District Budget</a></li>
+      <li><a href="http://www.tusd1.org/Information/General-Information">General Information</a></li>
+      <li><a href="http://www.tusd1.org/Information/Programs">Programs</a></li>
+      <li><a href="http://www.tusd1.org/Information/Resources">Resources</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.tusd1.org/Constituents">Just For You</a><ul>
+      <li><a href="http://www.tusd1.org/Just-For-You/Parents">Parents</a></li>
+      <li><a href="http://www.tusd1.org/Just-For-You/Students">Students</a></li>
+      <li><a href="http://www.tusd1.org/Just-For-You/Employees">Employees</a></li>
+      <li><a href="http://www.tusd1.org/Just-For-You/Community">Community</a><ul>
+          <li><a href="http://www.tusd1.org/Departments/Operations/Planning-Services/Rentals">Rent School Space</a></li>
+          <li><a href="http://www.tusd1.org/Just-For-You/Community/Volunteer">Volunteer</a></li>
+        </ul>
+      </li>
+      <li><a href="http://www.tusd1.org/Just-For-You/Alumni">Alumni</a></li>
+      <li><a href="http://www.tusd1.org/Just-For-You/TUdistrito">TUdistrito</a></li>
+    </ul>
+  </li>
+</ul> 
+        </div>
+    </nav>
+        <div id="dnn_HeaderPane" class="dnn_HeaderPane DNNEmptyPane"></div> 
+<div class="layout-wrapper"><div id="dnn_TopPane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-181151"><a name="181151"></a>
+
+<div class="block clearfix">
+<div class="blockheader">
+            <h3 class="t"><span id="dnn_ctr181151_dnnTITLE_titleLabel" class=" ">Page not found...</span>
+
+
+</h3>
+        </div>
+<div class="blockcontent">
+<div id="dnn_ctr181151_ContentPane"><!-- Start_Module_181151 --><div id="dnn_ctr181151_ModuleContent">
+	<div id="dnn_ctr181151_HtmlModule_lblContent" class="Normal">
+	<p>We're sorry. We can't find the page you were looking for.
+</p>
+<p>Please check the handy A-Z listings here on this page to see if you can find what you need.</p>
+<p>If you still can't find what you're looking for, please email <a href="mailto:webmaster@tusd1.org">webmaster@tusd1.org</a>.</p>
+<p>Thank you! </p>
+</div>
+
+</div><!-- End_Module_181151 --></div>
+</div>
+</div>
+</div></div>
+                <div class="content-layout">
+                    <div class="content-layout-row">
+                        <div class="layout-cell sidebar1"><div id="dnn_sidebar1" class="DNNEmptyPane"></div></div>
+                        <div class="layout-cell content"><div class="content-layout">
+    <div class="content-layout-row">
+        <div class="layout-cell layout-sidebar-bg">
+            
+        </div>
+        <div class="layout-cell layout-sidebar-bg">
+            <div id="dnn_ContentPane">
+            <div class="DnnModule DnnModule-DNN_HTML DnnModule-180895"><a name="180895"></a>
+<div class="DNNContainer_noTitle">
+    <div>
+        <div>
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                    <td class="header-tag-icon">
+                    </td>
+                    <td align="right">
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="c_content clear">
+            <div id="dnn_ctr180895_ContentPane" class="Normal c_contentpane">
+            <!-- Start_Module_180895 --><div id="dnn_ctr180895_ModuleContent">
+	<div id="dnn_ctr180895_HtmlModule_lblContent" class="Normal">
+	<p style="text-align: center;"><img style="text-align: center;" alt="Photo of child at computer" src="/portals/tusd1/district/images/websitehelp1.jpg"></p>
+</div>
+
+</div><!-- End_Module_180895 --></div>
+        </div>
+        <div class="c_footer buttons">
+            
+        </div>
+    </div>
+    <div class="clear"></div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-180894"><a name="180894"></a>
+
+<div class="block clearfix">
+<div class="blockheader">
+            <h3 class="t"><span id="dnn_ctr180894_dnnTITLE_titleLabel" class=" ">Top Five Pages</span>
+
+
+</h3>
+        </div>
+<div class="blockcontent">
+<div id="dnn_ctr180894_ContentPane"><!-- Start_Module_180894 --><div id="dnn_ctr180894_ModuleContent">
+	<div id="dnn_ctr180894_HtmlModule_lblContent" class="Normal">
+	<ol>
+    <li><a href="/Departments/FoodServices/MenusforSchoolMeals/tabid/79953/Default.aspx">School Breakfast/Lunch Menus</a></li>
+    <li><a href="/Departments/Transportation/tabid/79939/Default.aspx">Transportation</a></li>
+    <li><a href="/Information/Enrollment/tabid/79888/Default.aspx">Enrollment Information</a></li>
+    <li><a href="/Departments/Interscholastics/tabid/80171/Default.aspx">Interscholastics/Sports</a></li>
+    <li><a href="/Portals/TUSD1/District/docs/Dist%20Info/Student%20Guidelines/050guidelines.pdf">Student Guidelines</a>&nbsp;(in PDF)</li>
+</ol>
+</div>
+
+</div><!-- End_Module_180894 --></div>
+</div>
+</div>
+</div></div>
+        </div>
+        <div class="layout-cell layout-sidebar-bg">
+            <div id="dnn_RightPane">
+            <div class="DnnModule DnnModule-DNN_Announcements DnnModule-200348"><a name="200348"></a>
+
+<div class="block clearfix">
+<div class="blockheader">
+            <h3 class="t"><span id="dnn_ctr200348_dnnTITLE_titleLabel" class=" "> 	Information A-Z</span>
+
+
+</h3>
+        </div>
+<div class="blockcontent">
+<div id="dnn_ctr200348_ContentPane"><!-- Start_Module_200348 --><div id="dnn_ctr200348_ModuleContent">
+	
+<script type="text/javascript" src='/desktopmodules/dnnplus/js/dnnPlus.min.js'></script>
+
+
+
+<link rel="stylesheet" type="text/css" title="default" href="/desktopmodules/dnnPlus/Shared/jQuery/themes/base/jquery.ui.theme.css" />
+<link rel="stylesheet" type="text/css" title="default" href="/desktopmodules/dnnPlus/Shared/jQuery/themes/base/jquery.ui.accordion.css" />
+
+
+
+
+
+<style>
+    .announcements .simple{width:100% !important;}
+    .announcements .simple div{width:100% !important;}
+</style>
+<script>
+
+    //$(document).ready(function () {
+    //    $("div[id^='marqueecontainer_'] > div").each(function () {
+    //        $(this).attr('style', 'width:700px !important');
+    //    });
+    //});
+
+    //$(window).load(function () {
+    //    $("div[id^='marqueecontainer_'] > div").each(function () {
+    //        $(this).attr('style', 'width:auto !important');
+    //    });
+    //    $("div[id^='marqueecontainer_']").each(function () {
+    //        $(this).attr('style', 'width:auto !important');
+    //    });
+    //});
+
+    function getAnnouncementData(btnName) {
+
+        var hdnCountVal = $("#dnn_ctr" + btnName.className + "_Announcements_hdnCount").val();
+        $.ajax({
+            type: "POST",
+            url: "/desktopmodules/announcements/Announcements.asmx/GetData",
+            data: "{'btnName':'" + btnName.text + "','ModuleID':'" + btnName.className + "','PortalID':'" + 1085 + "','UserID':'" + -1 + "','TabModuleId':'" + 224452 + "','TabId':'" + 94826 + "','hdnCount':'" + hdnCountVal + "'}",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+
+                $("#dnn_ctr" + btnName.className + "_Announcements_Announcements").html(data.d[1]);//to bind data
+                eval(data.d[0]);//to apply css
+
+            },
+            failure: function (response) {
+                alert(response.d);
+            },
+            error: function (response) {
+                alert(response.d);
+            }
+        });
+
+        return false;
+    }
+</script>
+
+
+<div id="dnn_ctr200348_Announcements_Div1" class="viewOptionsWrapper form2 viewallannouncements ">
+    <ul class="viewOptions">
+
+        
+        
+        
+        
+
+    </ul>
+</div>
+
+<div class="clear">
+</div>
+
+<div id="dnn_ctr200348_Announcements_Announcements" class="announcements ui-helper-hidden-accessible">
+	
+    <div id='marqueecontainer_200348' class='accordion thumbnail NoAnimation'><h4><a href='#'>Your A-Z Directory of Information</a></h4><div class=" noimage"><span class="inner"><ul>
+    <li><a href="http://tusd1.org/Information/Resources/AdvancedLearningExperiences/tabid/80207/Default.aspx">Advanced Learning Experiences</a></li>
+    <li><a href="http://tusd1.org/Departments/DropoutPrevention/AttendanceAwareness/tabid/91905/Default.aspx">Attendance Awareness</a></li>
+    <li><a href="http://govboard.tusd1.org/AuditCommittee/tabid/79259/Default.aspx">Audit Committee</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/AzMERIT/tabid/83212/Default.aspx">AzMERIT Information and Resources</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/AZTaxCredit/tabid/80102/Default.aspx">AZ Tax Credit</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/BeforeandAfterSchool/tabid/80202/Default.aspx">Before and After School</a></li>
+    <li><a href="http://tusd1.org/Information/BoundaryMaps/tabid/81422/Default.aspx">Boundary Maps</a></li>
+    <li><a href="http://tusd1.org/Information/CatalogofSchools/tabid/79859/Default.aspx">Catalog of Schools</a></li>
+    <li><a href="http://tusd1.org/Information/DistrictCalendar/tabid/79853/Default.aspx">District Calendar</a></li>
+    <li><a href="http://tusd1.org/Departments/tabid/77971/Default.aspx">Departments</a></li>
+    <li><a href="http://tusd1.org/Departments/LanguageAcquisition/Two-WayDualLanguage/tabid/79706/Default.aspx">Dual Language</a></li>
+    <li><a href="http://tusd1.org/Information/EmployeeBenefitsTrust/tabid/80032/Default.aspx">Employee Benefits Trust</a></li>
+    <li><a href="http://tusd1.org/Information/Enrollment/tabid/79888/Default.aspx">Enroll With Us!</a></li>
+    <li><a href="http://tusd1.org/Information/KindergartenOpenHouse/tabid/80084/Default.aspx">Free All-Day Kindergarten</a></li>
+    <li><a href="http://tusd1.org/Information/FacilitiesMasterPlan/tabid/83430/Default.aspx">Facilities Master Plan</a></li>
+    <li><a href="http://tusd1.org/Departments/FamilyResourceCenters/tabid/79325/Default.aspx">Family Resource Centers</a></li>
+    <li><a href="http://tusd1.org/Information/FamilylifeCurriculum/tabid/80018/Default.aspx">Family Life Curriculum</a></li>
+    <li><a href="http://tusd1.org/Information/Plans/StrategicPlan/tabid/79947/Default.aspx">Five Year Strategic Plan</a></li>
+    <li><a href="http://govboard.tusd1.org/PoliciesandRegulations/PolicyCodeIKF/tabid/78911/Default.aspx">Graduation Requirements</a></li>
+    <li><a href="http://tusd1.org/Departments/GATE/tabid/78196/Default.aspx">Gifted and Talented Education</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/GrowingupTucson/tabid/80203/Default.aspx">Growing Up Tucson - Childcare and Early Learning</a></li>
+    <li><a href="http://tusd1.org/Information/History/tabid/78044/Default.aspx">History of Tucson Unified</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/IMPACTTucson/tabid/80103/Default.aspx">IMPACT Tucson</a></li>
+    <li><a href="http://tusd1.org/Information/MentoringProgram/tabid/79932/Default.aspx">Induction/Mentoring</a></li>
+    <li><a href="http://tusd1.org/Departments/Interscholastics/tabid/80171/Default.aspx">Interscholastics</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/LevelUp/tabid/80204/Default.aspx">Level Up to Middle School</a>
+    </li>
+    <li><a href="http://tusd1.org/Departments/Magnet/tabid/78112/Default.aspx">Magnet Schools</a></li>
+    <li><a href="http://tusd1.org/Departments/FamilyResourceCenters/McKinney-Vento/tabid/83294/Default.aspx">McKinney-Vento: Support for Youth in Transition </a></li>
+    <li><a href="http://tusd1.org/Information/NewcomersGuideandFAQ/tabid/81446/Default.aspx">Newcomer's Guide and FAQ</a></li>
+    <li><a href="http://tusd1.org/Information/News/tabid/79951/Default.aspx">News</a></li>
+    <li><a href="http://tusd1.org/Departments/OMA/tabid/78228/Default.aspx">Opening Minds Through the Arts (OMA)</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/OrganizationalCharts/tabid/82679/Default.aspx">Organizational Charts</a></li>
+    <li><a href="http://tusd1.org/Departments/PreschoolPrograms/tabid/78191/Default.aspx">Preschool</a></li>
+    <li><a href="http://tusd1.org/Information/Plans/Proposition301/tabid/79948/Default.aspx">Proposition 301</a></li>
+    <li><a href="http://tusd1.org/Information/PublicInformationRequests/tabid/79858/Default.aspx">Public Information Requests</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/Scholarships/tabid/80128/Default.aspx">Scholarships</a></li>
+    <li><a href="http://tusd1.org/Information/SchoolCommunityPartnershipCouncil/tabid/79880/Default.aspx">School Community Partnership Council</a></li>
+    <li><a href="http://tusd1.org/Information/SchoolCouncil/tabid/79862/Default.aspx">School Councils</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/Section504/tabid/79940/Default.aspx">Section 504 (Disabilities)</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/SecurePay/tabid/79942/Default.aspx">Secure Pay</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/SolarProject/tabid/80104/Default.aspx">Solar Project</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/StepstoSuccess/tabid/80205/Default.aspx">Steps to Success</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/StudentGuidelines/tabid/79945/Default.aspx">Student Guidelines</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/StudentInformationSystem/tabid/79943/Default.aspx">Student Information System</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/SummerPrograms/tabid/80206/Default.aspx">Summer Experience</a></li>
+    <li><a href="http://tusd1.org/Information/TechnologyOversightCommittee/tabid/79978/Default.aspx">Technology Oversight Committee</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/TimeclockInformation/tabid/79944/Default.aspx">Timeclock Information</a></li>
+    <li><a href="http://tusd1.org/Information/Resources/WellnessProgram/tabid/79941/Default.aspx">Wellness Activities for Staff</a></li>
+    <li><a href="http://tusd1.org/Information/WorkersCompensationTrustFund/tabid/79867/Default.aspx">Workers' Compensation Trust Fund</a></li>
+</ul></span><span class="more"></span></div></div>
+
+</div>
+
+
+
+<input type="hidden" name="dnn$ctr200348$Announcements$hdnAnnTemplate" id="dnn_ctr200348_Announcements_hdnAnnTemplate" value="Accordion" />
+<input type="hidden" name="dnn$ctr200348$Announcements$hdnCount" id="dnn_ctr200348_Announcements_hdnCount" value="1" />
+<input type="hidden" name="dnn$ctr200348$Announcements$hdnLightbox" id="dnn_ctr200348_Announcements_hdnLightbox" />
+<script type="text/javascript">$(document).ready(function() {$('#marqueecontainer_200348').accordion({ active: false, autoHeight: false, collapsible: true}).parent().hide().removeClass('ui-helper-hidden-accessible').fadeIn();;});</script>
+
+</div><!-- End_Module_200348 --></div>
+</div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_Announcements DnnModule-200349"><a name="200349"></a>
+
+<div class="block clearfix">
+<div class="blockheader">
+            <h3 class="t"><span id="dnn_ctr200349_dnnTITLE_titleLabel" class=" ">Schools A-Z</span>
+
+
+</h3>
+        </div>
+<div class="blockcontent">
+<div id="dnn_ctr200349_ContentPane"><!-- Start_Module_200349 --><div id="dnn_ctr200349_ModuleContent">
+	
+<script type="text/javascript" src='/desktopmodules/dnnplus/js/dnnPlus.min.js'></script>
+
+
+
+<link rel="stylesheet" type="text/css" title="default" href="/desktopmodules/dnnPlus/Shared/jQuery/themes/base/jquery.ui.theme.css" />
+<link rel="stylesheet" type="text/css" title="default" href="/desktopmodules/dnnPlus/Shared/jQuery/themes/base/jquery.ui.accordion.css" />
+
+
+
+
+
+<style>
+    .announcements .simple{width:100% !important;}
+    .announcements .simple div{width:100% !important;}
+</style>
+<script>
+
+    //$(document).ready(function () {
+    //    $("div[id^='marqueecontainer_'] > div").each(function () {
+    //        $(this).attr('style', 'width:700px !important');
+    //    });
+    //});
+
+    //$(window).load(function () {
+    //    $("div[id^='marqueecontainer_'] > div").each(function () {
+    //        $(this).attr('style', 'width:auto !important');
+    //    });
+    //    $("div[id^='marqueecontainer_']").each(function () {
+    //        $(this).attr('style', 'width:auto !important');
+    //    });
+    //});
+
+    function getAnnouncementData(btnName) {
+
+        var hdnCountVal = $("#dnn_ctr" + btnName.className + "_Announcements_hdnCount").val();
+        $.ajax({
+            type: "POST",
+            url: "/desktopmodules/announcements/Announcements.asmx/GetData",
+            data: "{'btnName':'" + btnName.text + "','ModuleID':'" + btnName.className + "','PortalID':'" + 1085 + "','UserID':'" + -1 + "','TabModuleId':'" + 224453 + "','TabId':'" + 94826 + "','hdnCount':'" + hdnCountVal + "'}",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+
+                $("#dnn_ctr" + btnName.className + "_Announcements_Announcements").html(data.d[1]);//to bind data
+                eval(data.d[0]);//to apply css
+
+            },
+            failure: function (response) {
+                alert(response.d);
+            },
+            error: function (response) {
+                alert(response.d);
+            }
+        });
+
+        return false;
+    }
+</script>
+
+
+<div id="dnn_ctr200349_Announcements_Div1" class="viewOptionsWrapper form2 viewallannouncements ">
+    <ul class="viewOptions">
+
+        
+        
+        
+        
+
+    </ul>
+</div>
+
+<div class="clear">
+</div>
+
+<div id="dnn_ctr200349_Announcements_Announcements" class="announcements ui-helper-hidden-accessible">
+	
+    <div id='marqueecontainer_200349' class='accordion thumbnail NoAnimation'><h4><a href='#'>Your A-Z School Quick Links</a></h4><div class=" noimage"><span class="inner"><ul>
+    <li><a href="http://agave.tusd1.schooldesk.net/">Agave Middle and High School</a></li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fvailms.tusd1.schooldesk.net+&amp;tabid=75579&amp;mid=171188" rel="141694" alt="Alice Vail Middle School">Alice Vail Middle School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fbanks.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="145910" alt="Banks Elementary School">Banks Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fblenman.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="146450" alt="Blenman Elementary School">Blenman Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fbloom.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="134148" alt="Bloom Elementary School">Bloom Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fbonillas.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=174664" rel="141702" alt="Bonillas Basic Curriculum Magnet School">Bonillas Basic Curriculum Magnet School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fboothfickett.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=174664" rel="145914" alt="Booth-Fickett Math/Science Magnet School">Booth-Fickett Math/Science Magnet School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fborman.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171191" rel="134262" alt="Borman K-8 School">Borman K-8 School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fborton.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=174664" rel="139369" alt="Borton Magnet Elementary School">Borton Magnet Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fcerose.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171191" rel="145957" alt="C.E. Rose K-8 School">C.E. Rose K-8 School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fcarillo.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=174664" rel="145916" alt="Carrillo Magnet School">Carrillo Magnet School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fcatalina.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171190" rel="134156" alt="Catalina High School">Catalina High School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fcavett.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="145921" alt="Cavett Elementary School">Cavett Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fcholla.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=174664" rel="139370" alt="Cholla High School">Cholla High School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fcollier.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="146361" alt="Collier Elementary School">Collier Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fcragin.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="146562" alt="Cragin Elementary School">Cragin Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fdavidson.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="144730" alt="Davidson Elementary School">Davidson Elementary School</a></li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fdavis.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=174664" rel="144736" alt="Davis Bilingual Elementary Magnet School">Davis Bilingual Elementary Magnet School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fdietzk8.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171191" rel="141704" alt="Dietz K-8 School">Dietz K-8 School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fdodgemagnet.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=174664" rel="146154" alt="Dodge Traditional Magnet Middle School">Dodge Traditional Magnet Middle School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fdoolenms.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171188" rel="141696" alt="Doolen Middle School">Doolen Middle School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fdrachman.tusd1.schooldesk.net%2f&amp;tabid=75579&amp;mid=174664" rel="144769" alt="Drachman Montessori K8 Magnet School">Drachman Montessori K8 Magnet School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fdunham.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="139376" alt="Dunham Elementary School">Dunham Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2ferickson.tusd1.schooldesk3.net&amp;tabid=75579&amp;mid=171189" rel="150582" alt="Erickson Elementary School">Erickson Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fford.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="146757" alt="Ford Elementary School">Ford Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2ffruchthendler.tusd1.schooldesk3.net&amp;tabid=75579&amp;mid=171189" rel="151277" alt="Fruchthendler Elementary School">Fruchthendler Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fgale.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="151251" alt="Gale Elementary School">Gale Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fgridleyms.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171188" rel="148995" alt="Gridley Middle School">Gridley Middle School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fgrijalva.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="139377" alt="Grijalva Elementary School">Grijalva Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fhenry.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="147178" alt="Henry Elementary School">Henry Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fholladay.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=174664" rel="147398" alt="Holladay Magnet Elementary School">Holladay Magnet Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fhollinger.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171191" rel="144745" alt="Hollinger K-8 School">Hollinger K-8 School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fhowell.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="150168" alt="Howell Elementary School">Howell Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fhudlow.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="151275" alt="Hudlow Elementary School">Hudlow Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fjohnsonprimary.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="134150" alt="Johnson Primary School">Johnson Primary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fkellond.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="139378" alt="Kellond Elementary School">Kellond Elementary School</a>
+    </li>
+    <li><a href="http://lawrence.tusd1.schooldesk3.net/">Lawrence 3-8 School</a></li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2flineweaver.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="141699" alt="Lineweaver Elementary School">Lineweaver Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2flynnurquides.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="151075" alt="Lynn/Urquides Elementary School">Lynn/Urquides Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fmageems.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171188" rel="134155" alt="Magee Middle School">Magee Middle School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fmaldonado.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="134151" alt="Maldonado Elementary School">Maldonado Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fmansfeldms.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=174664" rel="141701" alt="Mansfeld Middle Magnet School">Mansfeld Middle Magnet School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fmanzo.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="139379" alt="Manzo Elementary School">Manzo Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fmarshall.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="149240" alt="Marshall Elementary School">Marshall Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fmccorkle.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171191" rel="144743" alt="Mary Belle McCorkle Academy of Excellence K-8">Mary Belle McCorkle Academy of Excellence PreK-8</a>
+    </li>
+    <li><a href="http://marymeredith.tusd1.schooldesk.net/">Mary Meredith K-12</a></li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fmiles.tusd1.schooldesk.net%2f&amp;tabid=75579&amp;mid=171191" rel="147299" alt="Miles Exploratory Learning Center">Miles Exploratory Learning Center</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fmiller.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="148921" alt="Miller Elementary School">Miller Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fmissionview.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="134152" alt="Mission View Elementary School">Mission View Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fmaxwell.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171191" rel="147397" alt="Morgan Maxwell K-8 School">Morgan Maxwell K-8 School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fmyersganoung.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="149405" alt="Myers/Ganoung Elementary School">Myers/Ganoung Elementary School</a></li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fochoa.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=174664" rel="139371" alt="Ochoa Community School">Ochoa Community School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2foyama.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="134153" alt="Oyama Elementary School">Oyama Elementary School</a></li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fpaloverdehms.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=174664" rel="147400" alt="Palo Verde High Magnet School">Palo Verde High Magnet School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fpistorms.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171188" rel="141695" alt="Pistor Middle School">Pistor Middle School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fmore.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171190" rel="134159" alt="Project MORE">Project MORE</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fpueblogardens.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171191" rel="144741" alt="Pueblo Gardens K-8 School">Pueblo Gardens K-8 School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fpueblomhs.tusd1.schooldesk.net%2f&amp;tabid=75579&amp;mid=171190" rel="151519" alt="Pueblo High School">Pueblo High School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2frinconhs.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171190" rel="139381" alt="Rincon High School">Rincon High School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2frobertsnaylor.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171191" rel="134158" alt="Roberts/Naylor K-8 School">Roberts/Naylor K-8 School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2frobins.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171191" rel="141703" alt="Robins K-8 School">Robins K-8 School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2frobison.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="151521" alt="Robison Elementary">Robison Elementary</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2froskruge.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171191" rel="144739" alt="Roskruge Bilingual K-8 School">Roskruge Bilingual K-8 School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fsabinohs.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171190" rel="150583" alt="Sabino High School">Sabino High School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fsafford.tusd1.schooldesk.net%2f&amp;tabid=75579&amp;mid=171191" rel="151522" alt="Safford K-8 School">Safford K-8 School</a></li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fsahuarohs.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171190" rel="144751" alt="Sahuaro High School">Sahuaro High School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fsamhughes.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="150585" alt="Sam Hughes Elementary School">Sam Hughes Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fsantaritahs.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171190" rel="134157" alt="Santa Rita High School">Santa Rita High School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fsecristms.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171188" rel="141993" alt="Secrist Middle School">Secrist Middle School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fsewell.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="141698" alt="Sewell Elementary School">Sewell Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fsolengtom.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="151263" alt="Soleng Tom Elementary School">Soleng Tom Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fsteele.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="139380" alt="Steele Elementary School">Steele Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fTAP.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171190" rel="145878" alt="Teenage Parent High School (TAP)">Teenage Parent High School (TAP)</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2ftolson.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="144727" alt="Tolson Elementary School">Tolson Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fthms.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=174664" rel="141700" alt="Tucson High Magnet School">Tucson High Magnet School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2ftully.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=174664" rel="148640" alt="Tully Elementary Magnet School">Tully Elementary Magnet School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fuhs.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171190" rel="139383" alt="University High School">University High School</a></li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2futterback.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=174664" rel="139375" alt="Utterback Middle School">Utterback Middle School</a></li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fvalenciams.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171188" rel="150588" alt="Valencia Middle School">Valencia Middle School</a></li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fvanbuskirk.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="144725" alt="Van Buskirk Elementary School">Van Buskirk Elementary School</a>
+    </li>
+    <li><a href="http://vesey.tusd1.schooldesk.net/">Vesey Elementary</a></li>
+    <li><a href="http://warren.tusd1.schooldesk3.net/">Warren Elementary</a></li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fwheeler.tusd1.schooldesk.net&amp;tabid=75579&amp;mid=171189" rel="134154" alt="Wheeler Elementary School">Wheeler Elementary School</a>
+    </li>
+    <li><a href="http://white.tusd1.schooldesk3.net/">White Elementary</a></li>
+    <li>
+    <a href="http://whitmore.tusd1.schooldesk.net/" alt="Whitmore Elementary School">Whitmore Elementary School</a>
+    </li>
+    <li>
+    <a href="http://tusd1.schooldesk.net/LinkClick.aspx?link=http%3a%2f%2fwright.tusd1.schooldesk.net%2f&amp;tabid=75579&amp;mid=171189" rel="151260" alt="Wright Elementary Shool">Wright Elementary School</a></li>
+</ul></span><span class="more"></span></div></div>
+
+</div>
+
+
+
+<input type="hidden" name="dnn$ctr200349$Announcements$hdnAnnTemplate" id="dnn_ctr200349_Announcements_hdnAnnTemplate" value="Accordion" />
+<input type="hidden" name="dnn$ctr200349$Announcements$hdnCount" id="dnn_ctr200349_Announcements_hdnCount" value="1" />
+<input type="hidden" name="dnn$ctr200349$Announcements$hdnLightbox" id="dnn_ctr200349_Announcements_hdnLightbox" />
+<script type="text/javascript">$(document).ready(function() {$('#marqueecontainer_200349').accordion({ active: false, autoHeight: false, collapsible: true}).parent().hide().removeClass('ui-helper-hidden-accessible').fadeIn();;});</script>
+
+</div><!-- End_Module_200349 --></div>
+</div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_Announcements DnnModule-200350"><a name="200350"></a>
+
+<div class="block clearfix">
+<div class="blockheader">
+            <h3 class="t"><span id="dnn_ctr200350_dnnTITLE_titleLabel" class=" ">Departments A-Z</span>
+
+
+</h3>
+        </div>
+<div class="blockcontent">
+<div id="dnn_ctr200350_ContentPane"><!-- Start_Module_200350 --><div id="dnn_ctr200350_ModuleContent">
+	
+<script type="text/javascript" src='/desktopmodules/dnnplus/js/dnnPlus.min.js'></script>
+
+
+
+<link rel="stylesheet" type="text/css" title="default" href="/desktopmodules/dnnPlus/Shared/jQuery/themes/base/jquery.ui.theme.css" />
+<link rel="stylesheet" type="text/css" title="default" href="/desktopmodules/dnnPlus/Shared/jQuery/themes/base/jquery.ui.accordion.css" />
+
+
+
+
+
+<style>
+    .announcements .simple{width:100% !important;}
+    .announcements .simple div{width:100% !important;}
+</style>
+<script>
+
+    //$(document).ready(function () {
+    //    $("div[id^='marqueecontainer_'] > div").each(function () {
+    //        $(this).attr('style', 'width:700px !important');
+    //    });
+    //});
+
+    //$(window).load(function () {
+    //    $("div[id^='marqueecontainer_'] > div").each(function () {
+    //        $(this).attr('style', 'width:auto !important');
+    //    });
+    //    $("div[id^='marqueecontainer_']").each(function () {
+    //        $(this).attr('style', 'width:auto !important');
+    //    });
+    //});
+
+    function getAnnouncementData(btnName) {
+
+        var hdnCountVal = $("#dnn_ctr" + btnName.className + "_Announcements_hdnCount").val();
+        $.ajax({
+            type: "POST",
+            url: "/desktopmodules/announcements/Announcements.asmx/GetData",
+            data: "{'btnName':'" + btnName.text + "','ModuleID':'" + btnName.className + "','PortalID':'" + 1085 + "','UserID':'" + -1 + "','TabModuleId':'" + 224454 + "','TabId':'" + 94826 + "','hdnCount':'" + hdnCountVal + "'}",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+
+                $("#dnn_ctr" + btnName.className + "_Announcements_Announcements").html(data.d[1]);//to bind data
+                eval(data.d[0]);//to apply css
+
+            },
+            failure: function (response) {
+                alert(response.d);
+            },
+            error: function (response) {
+                alert(response.d);
+            }
+        });
+
+        return false;
+    }
+</script>
+
+
+<div id="dnn_ctr200350_Announcements_Div1" class="viewOptionsWrapper form2 viewallannouncements ">
+    <ul class="viewOptions">
+
+        
+        
+        
+        
+
+    </ul>
+</div>
+
+<div class="clear">
+</div>
+
+<div id="dnn_ctr200350_Announcements_Announcements" class="announcements ui-helper-hidden-accessible">
+	
+    <div id='marqueecontainer_200350' class='accordion thumbnail NoAnimation'><h4><a href='#'>Your A-Z Department Quick Links</a></h4><div class=" noimage"><span class="inner"><ul>
+    <li><a href="http://tusd1.org/Information/Resources/AdvancedLearningExperiences/tabid/80207/Default.aspx">Advanced Learning Experiences</a></li>
+    <li><a href="http://tusd1.org/Departments/AfricanAmericanStudentServices/tabid/77972/Default.aspx">African American Student Services</a></li>
+    <li><a href="http://agave.tusd1.schooldesk.net/AGAVE/tabid/73261/Default.aspx">AGAVE</a></li>
+    <li><a href="http://tusd1.org/Departments/AsianPacificAmericanStudentServices/tabid/79929/Default.aspx">Asian Pacific American Student Services</a></li>
+    <li><a href="http://tusd1.org/Departments/Benefits/tabid/78195/Default.aspx">Benefits</a></li>
+    <li><a href="http://tusd1.org/Departments/CareerandTechnicalEducation/tabid/78187/Default.aspx">Career &amp; Technical Education</a></li>
+    <li><a href="http://tusd1.org/Departments/Communications/tabid/78199/Default.aspx">Communications</a></li>
+    <li><a href="http://tusd1.org/Departments/CommunitySchools/tabid/78489/Default.aspx">Community Schools</a></li>
+    <li><a href="http://curriculum.tusd1.org/Home/tabid/79494/Default.aspx">Curriculum</a></li>
+    <li><a href="http://tusd1.org/Departments/DropoutPrevention/tabid/78059/Default.aspx">Dropout Prevention</a></li>
+    <li><a href="http://tusd1.org/Departments/EducationalMaterialsCenter/tabid/78200/Default.aspx">Educational Materials Center</a></li>
+    <li><a href="http://tusd1.org/Departments/EmployeeRelations/tabid/78222/Default.aspx">Employee Relations</a></li>
+    <li><a href="http://tusd1.org/Departments/ExceptionalEducation/tabid/78202/Default.aspx">Exceptional Education</a></li>
+    <li><a href="http://tusd1.org/Departments/FamilyResourceCenters/FamilyCommunityOutreach/tabid/81318/Default.aspx">Family and Community Outreach</a></li>
+    <li><a href="http://tusd1.org/Departments/FamilyResourceCenters/tabid/79325/Default.aspx">Family Resource Centers</a></li>
+    <li><a href="http://tusd1.org/Departments/FinancialServices/tabid/79930/Default.aspx">Financial Services</a></li>
+    <li><a href="http://tusd1.org/Departments/FineArts/tabid/78198/Default.aspx">Fine Arts</a></li>
+    <li><a href="http://tusd1.org/Departments/FoodServices/tabid/79931/Default.aspx">Food Services</a></li>
+    <li><a href="http://tusd1.org/Departments/GATE/tabid/78196/Default.aspx">GATE</a></li>
+    <li><a href="http://agave.tusd1.schooldesk.net/AGAVE/tabid/73261/Default.aspx">GradLink2</a></li>
+    <li><a href="http://tusd1.org/Departments/Counseling/tabid/78197/Default.aspx">Guidance &amp; Counseling</a></li>
+    <li><a href="http://tusd1.org/Departments/HumanResources/tabid/79934/Default.aspx">Human Resources/Employment</a></li>
+    <li><a href="http://www.tusd1.org/Information/MentoringProgram/tabid/79932/Default.aspx">Induction/Mentoring Program</a></li>
+    <li><a href="http://tusd1.org/Departments/EarlyLearning/tabid/78502/Default.aspx">Infant &amp; Early Learning Centers</a></li>
+    <li><a href="http://tusd1.org/Departments/Interscholastics/tabid/80171/Default.aspx">Interscholastics</a></li>
+    <li><a href="http://tusd1.org/Departments/LanguageAcquisition/tabid/79702/Default.aspx">Language Acquisition</a></li>
+    <li><a href="http://tusd1.org/Departments/Magnet/tabid/78112/Default.aspx">Magnet Programs</a></li>
+    <li><a href="http://tusd1.org/Departments/MexicanAmerican/tabid/78227/Default.aspx">Mexican American Student Services</a></li>
+    <li><a href="http://tusd1.org/Departments/NativeAmerican/tabid/78229/Default.aspx">Native American Student Services</a></li>
+    <li><a href="http://tusd1.org/Departments/OMA/tabid/78228/Default.aspx">OMA</a></li>
+    <li><a href="http://tusd1.org/Departments/Operations/tabid/79935/Default.aspx">Operations</a></li>
+    <li><a href="http://tusd1.org/Departments/PreschoolPrograms/tabid/78191/Default.aspx">Preschool Programs</a></li>
+    <li><a href="http://tusd1.org/Departments/PrintShop/tabid/78226/Default.aspx">Print Shop</a></li>
+    <li><a href="http://tusd1.org/Departments/ProfessionalDevelopment/tabid/79936/Default.aspx">Professional Development</a></li>
+    <li><a href="http://tusd1.org/Departments/Purchasing/tabid/79937/Default.aspx">Purchasing</a></li>
+    <li><a href="http://tusd1.org/Departments/Refugee/tabid/78192/Default.aspx">Refugee Services</a></li>
+    <li><a href="http://tusd1.org/Departments/RiskManagement/tabid/78193/Default.aspx">Risk Management</a></li>
+    <li><a href="http://tusd1.org/Departments/SchoolCommunityServices/tabid/79698/Default.aspx">School Community Services</a></li>
+    <li><a href="http://tusd1.org/Departments/SchoolHealthServices/tabid/78201/Default.aspx">School Health Services</a></li>
+    <li><a href="http://tusd1.org/Departments/Safety/tabid/78230/Default.aspx">School Safety</a></li>
+    <li><a href="http://curriculum.tusd1.org/SubjectAreas/tabid/79582/Default.aspx">Science</a></li>
+    <li><a href="http://tusd1.org/Departments/SecondaryLeadership/tabid/78231/Default.aspx">Secondary Leadership</a></li>
+    <li><a href="http://tusd1.org/Departments/TechnologyServices/tabid/78194/Default.aspx">Technology Services</a></li>
+    <li><a href="http://tusd1.org/Departments/TitleI/tabid/79938/Default.aspx">Title I</a></li>
+    <li><a href="http://tusd1.org/Departments/Transportation/tabid/79939/Default.aspx">Transportation</a></li>
+    <li><a href="http://tusd1.org/Departments/WorkersCompensation/tabid/79720/Default.aspx">Workers' Compensation</a></li>
+</ul></span><span class="more"></span></div><h4><a href='#'>Printable Phone List for Departments and Schools (in PDF)</a></h4><div class=" noimage"><span class="inner"></span><span class="more"><a href="/LinkClick.aspx?fileticket=-rvQqCITzq0%3d&tabid=94826&portalid=1085&mid=-1" rel="177364" alt="Printable Phone List for Departments and Schools (in PDF)"  name="Printable Phone List for Departments and Schools (in PDF)">More</a></span></div></div>
+
+</div>
+
+
+
+<input type="hidden" name="dnn$ctr200350$Announcements$hdnAnnTemplate" id="dnn_ctr200350_Announcements_hdnAnnTemplate" value="Accordion" />
+<input type="hidden" name="dnn$ctr200350$Announcements$hdnCount" id="dnn_ctr200350_Announcements_hdnCount" value="2" />
+<input type="hidden" name="dnn$ctr200350$Announcements$hdnLightbox" id="dnn_ctr200350_Announcements_hdnLightbox" />
+<script type="text/javascript">$(document).ready(function() {$('#marqueecontainer_200350').accordion({ active: false, autoHeight: false, collapsible: true}).parent().hide().removeClass('ui-helper-hidden-accessible').fadeIn();;});</script>
+
+</div><!-- End_Module_200350 --></div>
+</div>
+</div>
+</div></div>
+        </div>
+    </div>
+</div></div>
+                        <div class="layout-cell sidebar2"><div id="dnn_sidebar2" class="DNNEmptyPane"></div></div>
+                    </div>
+                </div>
+            <div class="content-layout">
+
+</div></div>
+    </div>
+<footer class="footer">
+  <div class="footer-inner"><a name="socials"></a>
+      <div class="footerLeftContainer">
+          <div class="footer_address" onclick="window.open('http://tusd1.schooldesk.net')" title="Link to district home page" ><img src="/Portals/TUSD1/District/Skins/TucsonX/images/footer_address.png" width="100%" /></div>
+          <div class="footer_address_text" >1010 E. Tenth St., Tucson, AZ 85719<br>Phone:520-225-6000</div>
+          <div class="social_links_area">
+            <div class="facebook" onclick="window.open('https://www.facebook.com/tucsonunified')" title="Link to Facebook" ></div>
+            <div class="twitter" onclick="window.open('https://twitter.com/tucsonunified')" title="Link to Twitter" ></div>
+            <div class="pinterest" onclick="window.open('https://www.pinterest.com/tucsonunified/')" title="Link to Pinterest" ></div>
+            <div class="instagram" onclick="window.open('https://www.instagram.com/tucsonunified/')" title="Link to Instagram" ></div>
+            <div class="livestream" onclick="window.open('http://livestream.com/tucsonunifiedlive')" title="Link to LiveStream" ></div>
+            <div class="youtube" onclick="window.open('https://www.youtube.com/user/TUSDMedia')" title="Link to YouTube" ></div>
+            <div class="rss" onclick="window.open('http://tusd1.schooldesk.net')" title="Link to RSS Feed" ></div>        
+          </div>
+      </div>
+      <div class="clearM"></div>
+
+        
+      <div class="footerCenterContainer">  
+            <div class="footer_links footer_link1" onclick="window.open('http://tusd1.schooldesk.net/Home/Accessibility/tabid/82914/Default.aspx')" title="Link to Accessibility Guidelines" >Notice of Accessibility</div>
+            <div class="footer_links footer_link2" onclick="window.open('http://tusd1.schooldesk.net/Home/PrivacyStatement/tabid/82913/Default.aspx')" title="Link to Privacy Statement" >Website Privacy Statement</div>
+            <div class="footer_links footer_link3" onclick="window.open('http://tusd1.schooldesk.net/Home/EqualEmploymentOpportunity/tabid/85440/Default.aspx')" title="Link to Equal Employment Opportunity Statement" >Equal Employment Opportunity</div>
+            <div class="footer_links footer_link4" onclick="window.open('http://tusd1.schooldesk.net/Home/Nondiscrimination/tabid/82912/Default.aspx')" title="Link to Notice of Nondiscrimination" >Notice of Nondiscrimination - Aviso De No Disciminaci&oacute;n</div>
+            <div class="footer_links footer_link5" onclick="window.open('http://jobs.tusd1.org/')" title="Link to Careers with TUSD" >Careers at Tucson Unified</div>
+      </div>
+      <!-- footer right -->
+      <div class="footerRightContainer">
+        <div class="knowledge" onclick="window.open('http://deseg.tusd1.schooldesk.net/DesegHome/tabid/78203/Default.aspx')" title="Education Enriched by Diversity - Tucson Unified School District. Knowledge Changes Everything" ></div>
+        <div class="tipline" onclick="window.open('http://tusd1.schooldesk.net/Departments/Safety/SchoolSafetyTipLine/tabid/79684/Default.aspx ')" title="School Saftey Tip Line" ></div>
+            
+         <div class="footerCopy">
+            <p>    <a id="dnn_dnnTerms_hypTerms" class="SkinObject" rel="nofollow" href="http://www.tusd1.org/Terms">Terms Of Use</a>
+            | <a id="dnn_dnnPrivacy_hypPrivacy" class="SkinObject" rel="nofollow" href="http://www.tusd1.org/Privacy">Privacy Statement</a>
+            | 
+
+            | <a id="dnn_dnnLogin_loginLink" title="Login" class="SkinObject" rel="nofollow" onclick="return dnnModal.show(&#39;http://www.tusd1.org/Login?returnurl=/Home/404-Message&amp;popUp=true&#39;,/*showReturn*/true,300,650,true,&#39;&#39;)" href="http://www.tusd1.org/Login?returnurl=%2fHome%2f404-Message">Login</a>
+</br>
+            <span id="dnn_dnnCopyright_lblCopyright" class="SkinObject">Copyright 2018 by SchoolDesk</span>
+   </p>
+        </div>
+     </div>
+      <!-- /footer right -->
+  </div>
+</footer>
+
+
+</div>
+
+
+
+
+<script>
+    collapseSidebars();
+</script>
+
+
+
+
+
+
+<script src="/Portals/TUSD1/District/Skins/TucsonX/js/animate.js"></script>
+    <script>
+function SidePanel_open() {
+    document.getElementById("SidePanel").style.display = "block";
+}
+function SidePanel_close() {
+    document.getElementById("SidePanel").style.display = "none";
+}
+    </script>
+<script type="text/javascript">
+var _userway_config = {
+// uncomment the following line to override default position
+   position: 7,
+// uncomment the following line to override default language (e.g., fr, de, es, he, nl, etc.)
+   language: 'en',
+// uncomment the following line to override color set via widget
+   color: '#455261',
+account: 'slfnE7YmUC'
+};
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`94826`}" />
+        <input name="__RequestVerificationToken" type="hidden" value="xLKvGjNuLdRrHPDwiNAgOaBTjAZg1E358HoGiKnJWHIhGylHull-S4jUPfsnakpa-EHvdRpBp_n1C4inGeAq55FAC6wgdERyMGC5SXSXZG-pCdu1X_duNNyVch41" />
+    </form>
+    
+    
+</body>
+</html>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-22358543-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-22358543-1');
+</script>

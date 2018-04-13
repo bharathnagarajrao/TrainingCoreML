@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>404: file not found at www.michaelmacklive.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="Keywords" content="michael mack, 404, file not found, www.michaelmacklive.com" />
+<meta name="Description" content="404: file not found at www.michaelmacklive.com" />
+<!-- favicon using MIT homepage as example -->
+<link rel="shortcut icon" href="favicon.ico" />
+<link rel="icon" href="favicon.ico" />
+<!-- style sheets -->
+<link href="stylesheet1.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="780" border="0" cellpadding="0" cellspacing="0" class="table-background-0">
+  <tr> 
+    <td><h1 class="heading-style-0-logo-line"><a href="http://www.michaelmacklive.com/">michael 
+        mack</a> 404: file not found</h1></td>
+  </tr>
+  <tr> 
+    <td><p class="link-nav"><a href="http://www.michaelmacklive.com">home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.michaelmacklive.com/hearingvoices.html">voices</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.michaelmacklive.com/press.html">press</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.michaelmacklive.com/reviews.html">reviews</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.michaelmacklive.com/bio.html">bio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.michaelmacklive.com/links-resources.html">links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.michaelmacklive.com/calendar.html">calendar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.michaelmacklive.com/contact.html">contact</a></p></td>
+  </tr>
+</table>
+<table width="780" border="0" cellpadding="0" cellspacing="0" class="table-background-0">
+  <tr> 
+    <td class="table-cell-image"> <p class="image-L"><img src="assets/images/site/Mack-Voices_Cap1_w300p_72dpi_q6.jpg" alt="Poet and performer Michael Mack" width="266" height="319" /></p></td>
+    <td class="table-cell-text"> <h2 class="heading-style-1a">404: file not found</h2>
+      <p class="normal">Whoops! </p>
+      <p class="normal">Sorry, but the file you requested can't be found.</p>
+      <p class="normal">It may have moved to a new location, or you may have mis-typed 
+        the internet address.</p>
+      <p class="normal">Please click here to <a href="http://www.michaelmacklive.com">go 
+        to my homepage</a>, or try the links below to help you locate the file.</p>
+      <p class="normal">If you still can't find it, please <a href="mailto:michaelmacklive@gmail.com?subject=404: file not found">email 
+        me</a> and let me know.</p>
+      <p class="normal-C"><em>Thanks!</em><br/>
+        Michael</p></td>
+  </tr>
+  <tr> 
+    <td colspan="2"><p class="link-nav"><a href="http://www.michaelmacklive.com">home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.michaelmacklive.com/hearingvoices.html">voices</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.michaelmacklive.com/press.html">press</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.michaelmacklive.com/reviews.html">reviews</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.michaelmacklive.com/bio.html">bio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.michaelmacklive.com/links-resources.html">links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.michaelmacklive.com/calendar.html">calendar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.michaelmacklive.com/contact.html">contact</a></p></td>
+  </tr>
+  <tr> 
+    <td colspan="2" class="table-colspan-footer"> <p class="footer-text"> &copy; 
+        Michael Mack 2006 -
+            <script type="text/javascript" src="js/year.js"></script>
+        <br/>
+        All Rights Reserved</p></td>
+  </tr>
+</table>
+</body>
+</html>
